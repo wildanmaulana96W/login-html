@@ -1,0 +1,8 @@
+body {
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial;
+}
+.form-box {
+  width: 100%;
+  max-width: 400px;
+  border-radius: 12px;
+}
